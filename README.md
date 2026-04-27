@@ -26,7 +26,7 @@ Outside of coding, I spend a lot of time reading novels, folding origami, listen
 
 I'm also an avid gamer, especially games that punish you for mistakes and force you to improve, like Sekiro or other Souls-like titles. There's something satisfying about slowly mastering something difficult.
 
-I like to think that my love for challenging games is just another way of saying I enjoy learning and improving. But maybe it just means I like getting frustrated and then feeling good about myself when I finally figure something out.
+> I like to think that my love for challenging games is just another way of saying I enjoy learning and improving. But maybe it just means I like getting frustrated and then feeling good about myself when I finally figure something out.
 Playing table tennis Reading novels Gaming session
 
 
@@ -36,7 +36,7 @@ I talk a lot. Mostly because I like explaining things.
 
 One trick I use to deal with my not-so-great memory is relating concepts to other things I already understand. If two ideas connect somehow, they're much easier to remember.
 
-So if someday I can't remember the exact command to get the description of a particular input in a Kubernetes deployment... please don't hate on me. I'll probably remember the concept, the architecture behind it, and five different ways it connects to something else.
+> So if someday I can't remember the exact command to get the description of a particular input in a Kubernetes deployment... please don't hate on me. I'll probably remember the concept, the architecture behind it, and five different ways it connects to something else.
 Right now
 
 I'm mostly focused on learning by building: experimenting with new systems, breaking things, fixing them again, and slowly getting better at designing software.
